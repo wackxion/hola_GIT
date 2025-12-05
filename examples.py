@@ -1,7 +1,5 @@
-"""
-Pequeño módulo con demos de las principales mecánicas de Python.
-Cada función imprime una demostración corta y autocontenida.
-"""
+"""Pequeño módulo con demos de las principales mecánicas de Python.
+Cada función imprime una demostración corta y autocontenida."""
 
 import os
 from contextlib import contextmanager
