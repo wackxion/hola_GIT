@@ -6,3 +6,4 @@ print("finalizando el aprendizaje de git")
 def suma(a, b):
     return a + b
 print("la suma de 2 + 3 es:", suma(2, 3))
+print("la suma de 5 + 7 es:", suma(5, 7))
